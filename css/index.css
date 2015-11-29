@@ -2,9 +2,10 @@
 #main{float: left;width:740px;background-color: white;}
 .logs{padding: 20px;}
 	.log{}
-		.log-title{font-size: 25px;padding: 20px 0 0 0;  }
+		.log-title{font-size: 25px;padding: 15px 0 0 0;  }
 		.log-content{font-size: 17px;line-height: 35px;
-			         border-bottom: 1px solid #efefef; padding: 20px 0}
+			         border-bottom: 1px solid #efefef; padding: 15px 0}
+    .log-date{padding-top: 15px;color: #efefef;}
 #sidebar{float: right;width: 250px;text-align: center;}
     #about img{width: 200px; height: 130px;}
       #about{background-color: white;padding: 15px 0;}
