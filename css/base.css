@@ -7,6 +7,6 @@
 	#container{ width:100%; }
 	#content{width: 100%}
 	#main{ width: 100%; }
-	#sidebar{ width:100%; }
+	#sidebar{ display: none;}
 	.logs{margin: 10px}
 }
