@@ -1,0 +1,12 @@
+body{margin: 0;padding: 0;
+  font-family: sans-serif;"Geneva",Verdana, "Microsoft YaHei";background-color: #efefef;}
+#container{width: 1000px;margin: 0 auto;}
+#header{background-image: url(../images/img_0411.jpg);height: 350px}
+#sub-header{ display: none; }
+#title{padding: 100px}
+a{text-decoration: none;color: #000000}
+a:hover{color: blue;}
+ul{padding: 10px;margin: 10px;word-spacing: 60px;font-size: 18px}
+li{display: inline;}
+
+#footer{padding: 15px; margin: 10px 0 0 0;text-align: center;background-color: white;}
