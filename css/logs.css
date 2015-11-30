@@ -2,6 +2,6 @@
 
 .logs{padding: 20px;}
 	.log{}
-		.log-title{font-size: 25px;padding: 15px 0 0 0; }
+		.log-title{font-size: 25px;padding: 8px 0 0 0; }
 		.log-content{font-size: 17px;line-height: 35px;}
 		.log-date{padding: 15px 0;color: #efefef;}

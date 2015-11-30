@@ -1,12 +1,13 @@
 @media only screen and(min-width:0px) and (max-width: 600px){
 
 	#header{ display: none; }
-	#sub-header{ display: block; }
-	nav.subnav,li{display: inline;font-size: 15px;}
-	ul{margin: 4px;padding: 2px}
+	  #sub-header{ display: block; }
+	  .two-nav{word-spacing: 30px;margin: 4px;padding: 4px;}
+	 
+	
 	#container{ width:100%; }
-	#content{width: 100%}
-	#main{ width: 100%; }
-	#sidebar{ display: none;}
+	  #content{width: 100%}
+	  #main{ width: 100%; }
+	  #sidebar{ display: none;}
 	.logs{margin: 10px}
 }
